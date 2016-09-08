@@ -10,7 +10,7 @@
 - [x] start with boilerplate
 - [x] add form element with username, password, submit inputs to structure in main
 - [x] add heading for "log in" form
-- [ ] handle the submit to add custom functionality
+- [x] handle the submit to add custom functionality
 - [ ] create data of users in order to determine if username exists
 - [ ] password matches if user is in database
 - [ ] create new component to view "welcome <username>"
