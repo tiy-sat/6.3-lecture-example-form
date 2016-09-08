@@ -9,7 +9,7 @@
 ## TODO
 - [x] start with boilerplate
 - [x] add form element with username, password, submit inputs to structure in main
-- [ ] add heading for "log in" form
+- [x] add heading for "log in" form
 - [ ] handle the submit to add custom functionality
 - [ ] create data of users in order to determine if username exists
 - [ ] password matches if user is in database
