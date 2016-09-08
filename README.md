@@ -12,6 +12,7 @@
 - [x] add heading for "log in" form
 - [x] handle the submit to add custom functionality
 - [x] create data of users in order to determine if username exists
+- [x] check if username exists
 - [ ] password matches if user is in database
 - [ ] create new component to view "welcome <username>"
 - [ ] given username and password match, route to new component viewing username
