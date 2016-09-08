@@ -15,6 +15,8 @@
 - [x] check if username exists
 - [x] password matches if user is in database
 - [x] create new component to view "welcome <username>"
+- [x] add react router as a dependency and import it
+- [x] create routes
 - [ ] given username and password match, route to new component viewing username
 
 
