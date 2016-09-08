@@ -7,6 +7,6 @@ import Welcome from './lib/Welcome'
 render((
   <Router history={hashHistory}>
     <Route path="/" component={Main}/>
-    <Route path="/Welcome" component={Welcome}/>
+    <Route path="/Welcome/:username" component={Welcome}/>
   </Router>
 ), document.getElementById('app'))
